@@ -92,7 +92,7 @@ for(let radiante = 10001; radiante <= 10001; radiante++){
 
 console.log("O Héroi de nome " + nomeHeroi + " está no nível de Radiante")
 
-for(let radiante = 10001; radiante >= 10001; radiante++){
+for(let radiante = 10002; radiante >= 10002; radiante++){
     xp += 1
     console.log("Seu héroi está com " + radiante + " de XP")
 }
